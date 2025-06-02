@@ -1,0 +1,14 @@
+/* src/Dashboard.css */
+.dashboard {
+  padding: 30px;
+  background: #f0f2f5;
+  font-family: 'Segoe UI', sans-serif;
+  min-height: 100vh;
+}
+
+.dashboard-title {
+  font-size: 32px;
+  color: #333;
+  margin-bottom: 20px;
+  text-align: center;
+}
